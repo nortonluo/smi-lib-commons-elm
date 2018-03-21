@@ -15,6 +15,7 @@ group = 'com.github.nortonluo'
 archivesBaseName = "commons-elm"
 ext.isReleaseVersion = !version.endsWith("SNAPSHOT")
 
+
 buildscript {
    repositories {
     mavenLocal()
